@@ -1,11 +1,12 @@
-#printf
+#Printf
+##Group project
 
 #Description
 
 --------------------------------------------------------------------------------------------
 
 The printf function sends formatted output to stdout.
-A custom _printf() for learning purposes was developed by cohort  #12 students duresa and ---------.
+A custom _printf() for learning purposes was developed by cohort  #12 students duresa and Ejike Emueze.
 
 ---------------------------------------------------------------------------------------------
 #### Authorized functions and macros
@@ -140,3 +141,5 @@ Specifier                |Output                        |Examples |
 #### Tasks required for this project
 
 ### Authors &copy;
+-Ejike Emueze
+-Duresa Eshetu
